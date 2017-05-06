@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">ایمیل خود را وارد کنید</string>
+    <string name="prompt_password">کلمه عبور خود را وارد کنید</string>
+    <string name="action_sign_in">ورود به سیستم</string>
+    <string name="action_sign_in_short">ورود</string>
+    <string name="error_invalid_email">فرمت ایمیل نادرست است </string>
+    <string name="error_invalid_password">کلمه عبور کوتاه است </string>
+    <string name="error_incorrect_password">ایمیل یا پسورد نادرست است </string>
+    <string name="error_field_required">پر کردن این فیلد ضروری است </string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
